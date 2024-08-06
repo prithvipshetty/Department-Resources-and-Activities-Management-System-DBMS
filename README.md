@@ -12,6 +12,6 @@ can also view their progress.
 • Implemented authentication and authorization to ensure secure access to the system.
 
 
-Technologies used:
+# Technologies used:
 
 PHP, HTML, MySQL
